@@ -3,6 +3,7 @@ function oddIndices(arr) {
     // Your code here
 }
 
+
 function oddReverse(arr) {
     // Return an array containing all the odd indices starting from the end
     // Your code here
